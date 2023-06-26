@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trần Nhuận</h1>
 <h3 align="center">Hello! I’m Tran Nhuan. I'm web & Mobile Developer with over 3 years of experience specializing in front end development. Experienced with all stages of the development cycle for dynamic mobile projects.Having an knowledge including : Android Native mobile App, IOS Native mobile App, Flutter mobile App, Frontend(HTML/CSS), Backend(PHP), Database(SQL, Firebase),Others(Wordpress), Tools: Figma, Android Studio, Xcode, Visual Code, Github, gitlab, bitbucket, Asana</h3>
-
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhuandevmobile&label=Profile%20views&color=0e75b6&style=flat" alt="nhuandevmobile" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhuandevmobile" alt="nhuandevmobile" /></a> </p>
