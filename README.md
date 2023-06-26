@@ -1,4 +1,4 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img  src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png?raw=true">
 <h1 align="center">Hi 👋, I'm Trần Nhuận</h1>
 <h3 align="center">Hello! I’m Tran Nhuan. I'm web & Mobile Developer with over 3 years of experience specializing in front end development. Experienced with all stages of the development cycle for dynamic mobile projects.Having an knowledge including : Android Native mobile App, IOS Native mobile App, Flutter mobile App, Frontend(HTML/CSS), Backend(PHP), Database(SQL, Firebase),Others(Wordpress), Tools: Figma, Android Studio, Xcode, Visual Code, Github, gitlab, bitbucket, Asana</h3>
 <img align="right" alt="Coding"  width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" />
